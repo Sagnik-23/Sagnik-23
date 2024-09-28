@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sagnik-23
 - 👀 I’m interested in Musical instruments
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning GSAP animations
 - 💞️ I’m looking to collaborate on ...[Don't know till now]
 - 📫 How to reach me ... DM me on instagram 'sagnik2250'
 - 😄 Pronouns: He/Him/His
